@@ -1,0 +1,24 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrumot/data-structures-and-algorithms.git"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms"
+  ],
+  "author": "Alexandru Mot",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alexandrumot/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/alexandrumot/data-structures-and-algorithms#readme"
+}
